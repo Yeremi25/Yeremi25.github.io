@@ -18,6 +18,7 @@ body{
 .container .title{
     font-size: 35px;
     color: white;
+    font-size: 20px;
 }
 
 .container .buttons{
